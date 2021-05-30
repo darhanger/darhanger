@@ -1,9 +1,11 @@
 ### Hi there 👋
+📧 Contact me: https://il.ink/DarhangeR
+
 🔭 I’m currently working on https://github.com/darhanger/WotLK_Profiles_for_nHub
 
-🌱 I’m currently learning: Lua
+🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
 
-🤔 I’m looking for help with: Lua side https://github.com/darhanger/ni
+🤔 I’m looking for help with: **Lua** side for https://github.com/darhanger/ni
 
 My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni.svg)](https://github.com/darhanger/ni)
