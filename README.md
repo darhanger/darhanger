@@ -1,18 +1,36 @@
+### <img src="https://github.com/darhanger/darhanger/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/darhanger/darhanger/blob/main/Assets/Earth.gif" width="24px">
+<br>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/darhanger?label=Follow)](https://twitter.com/intent/follow?screen_name=darhanger)
 ![GitHub followers](https://img.shields.io/github/followers/darhanger?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://il.ink/DarhangeR/)
-![](https://visitor-badge.glitch.me/badge?page_id=darhanger.darhanger)
+![](https://gpvc.arturio.dev/darhanger)
+<img align="right" alt="PC GIF" src="https://github.com/darhanger/darhanger/blob/main/Assets/PC.gif" width="160" />
 
-### Hi there 👋
-📧 Contact me: https://il.ink/DarhangeR
+<p>
 
-🔭 I’m currently working on https://github.com/darhanger/WotLK_Profiles_for_nHub
+ - 🔭 I’m currently working on https://github.com/darhanger/WotLK_Profiles_for_nHub
+ - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
+ - 🤔 I’m looking for help with: **Lua** side for https://github.com/darhanger/ni
+ 
+</p>
 
-🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
+<br>
 
-🤔 I’m looking for help with: **Lua** side for https://github.com/darhanger/ni
+### :zap: Github Stats
 
-My current projects:
+<a href="https://github.com/darhanger">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darhanger&show_icons=true&title_color=fff&icon_color=2e78d1&text_color=efefef&bg_color=050910" alt="Darhanger's Github Stats" width="60%">
+ </a>
+ 
+ <a href="https://github.com/darhanger">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhanger&show_icons=true&title_color=fff&icon_color=2e78d1&text_color=efefef&bg_color=050910" alt="Darhanger's Github Stats" width="35%">
+ </a>
+ 
+<br><br><br>
+
+
+### :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni.svg)](https://github.com/darhanger/ni)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total.svg)](https://github.com/darhanger/ni/releases)
  [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
