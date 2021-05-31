@@ -20,7 +20,7 @@
 ## :zap: Github Stats
 
 <a href="https://github.com/darhanger">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darhanger&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="Darhanger's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darhanger&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117&hide=issues" alt="Darhanger's Github Stats" width="60%">
  </a>
  
  <a href="https://github.com/darhanger">
