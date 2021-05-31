@@ -28,11 +28,9 @@
  </a>
 
 <br> <br> <br> <br> 
+## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
 <br><br><br><br>
