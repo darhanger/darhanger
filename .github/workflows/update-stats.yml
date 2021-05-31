@@ -12,7 +12,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: darhanger/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.d208b801-d9e7-4ece-a0a6-a5aa3648a7db }}
           GH_TOKEN: ${{ secrets.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 }}
