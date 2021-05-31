@@ -1,11 +1,10 @@
 ### <img src="https://github.com/darhanger/darhanger/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/darhanger/darhanger/blob/main/Assets/Earth.gif" width="24px">
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=white)](https://discord.gg/xBFKJc6QRr)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=white)](http://m.me/darhanger)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white)](https://www.instagram.com/darhanger/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](http://r.me/darhanger)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=black&color=white)](https://discord.gg/xBFKJc6QRr)
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=black&color=white)](http://m.me/darhanger)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=black&color=white)](https://www.instagram.com/darhanger/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=black&color=white)](http://r.me/darhanger)
 ![GitHub followers](https://img.shields.io/github/followers/darhanger?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/darhanger?label=Follow)](https://twitter.com/intent/follow?screen_name=darhanger)
-![Profile views](https://gpvc.arturio.dev/darhanger)
 <img align="right" alt="PC GIF" src="https://github.com/darhanger/darhanger/blob/main/Assets/PC.gif" width="175" />
 
 <p>
@@ -21,15 +20,17 @@
 ## :zap: Github Stats
 
 <a href="https://github.com/darhanger">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darhanger&show_icons=true&title_color=fff&icon_color=2e78d1&text_color=efefef&bg_color=050910" alt="Darhanger's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darhanger&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="Darhanger's Github Stats" width="60%">
  </a>
  
  <a href="https://github.com/darhanger">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhanger&show_icons=true&title_color=fff&icon_color=2e78d1&text_color=efefef&bg_color=050910" alt="Darhanger's Github Stats" width="35%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhanger&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="Darhanger's Github Stats" width="35%">
  </a>
  
-<br><br><br><br>
+<!--START_SECTION:waka-->
 
+
+<!--END_SECTION:waka-->
 
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
