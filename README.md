@@ -95,12 +95,7 @@ No Activity Tracked This Week
 Lua                      6 repos             █████████████████████████   100.0%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
-
-<br><br><br><br>
 
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
