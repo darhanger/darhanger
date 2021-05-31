@@ -16,3 +16,5 @@ jobs:
           LOCALE: "en"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_COMMIT: "False"
+          SHOW_PROJECTS: "False"
