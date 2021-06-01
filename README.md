@@ -31,7 +31,7 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52072%20lines%20of%20code-blue)
 
@@ -41,13 +41,15 @@
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 16 mins       ████████████████████░░░░░   81.48% 
+Lua                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.52%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  2 hrs 16 mins       ████████████████████░░░░░   81.48% 
+Notepad++                30 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
