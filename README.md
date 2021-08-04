@@ -124,3 +124,12 @@ Lua                      6 repos             ███████████�
 [![Last Release](https://img.shields.io/github/v/release/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases)
  [**Accountant Classic**](https://github.com/darhanger/Accountant_Classic)  - Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc.
+## :snowflake: Closed projects:
+  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases)
+ [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
+   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_H-WoW/total?style=flat-square)](https://github.com/darhanger/PQR_H-WoW/releases)
+ [**PQR Profiles for Heroes-WoW Fun**](https://github.com/darhanger/PQR_H-WoW)  - Profiles for Heroes-WoW
