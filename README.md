@@ -31,15 +31,15 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95220%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 131 Contributions in the Year 2021
  > 
-> 📦 8.2 kB Used in Github's Storage 
+> 📦 8.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +76,17 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-Lua                      9 hrs 15 mins       ████████████████████████░   99.47% 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+Lua                      6 hrs 53 mins       ████████████████████████░   99.29% 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🔥 Editors: 
-Notepad++                9 hrs 18 mins       █████████████████████████   100.0%
+Notepad++                6 hrs 56 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 18 mins       █████████████████████████   100.0%
+Unknown Project          6 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 18 mins       █████████████████████████   100.0%
+Windows                  6 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ Lua                      6 repos             ███████████�
 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
