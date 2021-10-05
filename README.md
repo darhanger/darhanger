@@ -31,19 +31,19 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98292%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 134 Contributions in the Year 2021
+> 🏆 133 Contributions in the Year 2021
  > 
 > 📦 8.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -76,18 +76,18 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-Lua                      12 hrs 24 mins      █████████████████████████   99.99% 
+Lua                      12 hrs 10 mins      █████████████████████████   99.99% 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Notepad++                12 hrs 24 mins      █████████████████████████   100.0%
+Notepad++                12 hrs 10 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 5 mins        ████████████████░░░░░░░░░   65.21% 
-WotLK_Profiles_for_nHub  4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   34.79%
+Unknown Project          10 hrs 36 mins      █████████████████████░░░░   87.14% 
+WotLK_Profiles_for_nHub  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.0%
+Windows                  12 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ Lua                      6 repos             ███████████�
 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
