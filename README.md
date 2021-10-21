@@ -31,22 +31,64 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105507%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105719%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 137 Contributions in the Year 2021
+> 🏆 140 Contributions in the Year 2021
  > 
 > 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    59 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
+🌆 Daytime    116 commits    ████████████░░░░░░░░░░░░░   50.88% 
+🌃 Evening    48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Wednesday    30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Thursday     41 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+Friday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   21.49% 
+Saturday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Kiev
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -56,7 +98,7 @@ Lua                      6 repos             ███████████�
 
 
 
- Last Updated on 14/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
