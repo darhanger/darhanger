@@ -31,7 +31,7 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108504%20lines%20of%20code-blue)
 
@@ -76,16 +76,16 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-Other                    2 hrs 9 mins        █████████████████████████   100.0%
+Other                    2 hrs 36 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Word                     2 hrs 9 mins        █████████████████████████   100.0%
+Word                     2 hrs 36 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 9 mins        █████████████████████████   100.0%
+Unknown Project          2 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.0%
+Windows                  2 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ Lua                      7 repos             ███████████�
 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
