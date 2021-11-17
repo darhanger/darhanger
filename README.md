@@ -31,7 +31,7 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108614%20lines%20of%20code-blue)
 
@@ -98,7 +98,7 @@ Lua                      7 repos             ███████████�
 
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
