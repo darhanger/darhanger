@@ -9,9 +9,10 @@
 
 <p>
 
- - 🔭 I’m currently working on https://github.com/darhanger/WotLK_Profiles_for_nHub
+ - 🔭 I’m currently working on **[WotLK Profiles for NI](https://github.com/darhanger/WotLK_Profiles_for_nHub)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=flat-square)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
+
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
- - 🤔 I’m looking for help with: **Lua** side for https://github.com/darhanger/ni
+ - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni)**
  
 </p>
 
@@ -106,6 +107,10 @@ Lua                      7 repos             ███████████�
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
  [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/WotLK_Profiles_for_nHub/total?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub/releases)
+ [**WotLK Profiles for NI**](https://github.com/darhanger/WotLK_Profiles_for_nHub) - My current project. Good alternative for [**PQR**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a).
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/LagBar/total?style=flat-square)](https://github.com/darhanger/LagBar/releases)
