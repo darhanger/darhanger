@@ -9,7 +9,7 @@
 
 <p>
 
- - 🔭 I’m currently working on **[WotLK Profiles for NI](https://github.com/darhanger/WotLK_Profiles_for_nHub)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=flat-square)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
+ - 🔭 I’m currently working on **[WotLK Profiles for NI](https://github.com/darhanger/WotLK_Profiles_for_nHub)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
 
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
  - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni)**
