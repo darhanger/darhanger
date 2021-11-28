@@ -38,13 +38,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 170 Contributions in the Year 2021
+> 🏆 171 Contributions in the Year 2021
  > 
 > 📦 9.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -101,7 +101,7 @@ Lua                      7 repos             ███████████�
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
