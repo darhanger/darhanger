@@ -12,7 +12,7 @@
  - 🔭 I’m currently working on **[WotLK Profiles for NI](https://github.com/darhanger/WotLK_Profiles_for_nHub)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
 
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
- - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni)**
+ - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni-2)**
  
 </p>
 
@@ -105,10 +105,10 @@ Lua                      7 repos             ███████████�
 <!--END_SECTION:waka-->
 
 ## :zap: My current projects:
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
- [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-2/total?style=flat-square)](https://github.com/darhanger/ni-2/releases)
+ [**ni**](https://github.com/darhanger/ni-2)  - Profile Framework for World of Warcraft and its older expansions.
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/WotLK_Profiles_for_nHub/total?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub/releases)
