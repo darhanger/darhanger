@@ -32,7 +32,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
 
@@ -77,16 +79,18 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-Lua                      20 hrs 54 mins      █████████████████████████   100.0%
+Lua                      20 hrs 11 mins      █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Notepad++                20 hrs 54 mins      █████████████████████████   100.0%
+Notepad++                20 hrs 11 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-WotLK_Profiles_for_nHub  20 hrs 54 mins      █████████████████████████   100.0%
+WotLK_Profiles_for_nHub  16 hrs 20 mins      ████████████████████░░░░░   80.93% 
+Unknown Project          3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.07%
 
 💻 Operating System: 
-Windows                  20 hrs 54 mins      █████████████████████████   100.0%
+Windows                  20 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
