@@ -106,7 +106,7 @@ Lua                      7 repos             ███████████�
 - [![GitHub stars](https://img.shields.io/github/stars/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
 [![Last Release](https://img.shields.io/github/v/release/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
 [![GitHub All Releases](https://img.shields.io/github/downloads/official-nhub/ni/total?style=flat-square)](https://github.com/official-nhub/ni/releases)
- [**ni**](https://github.com/official-nhub/ni)  - Profile Framework for World of Warcraft and its older expansions.
+ [**ni (official)**](https://github.com/official-nhub/ni)  - Profile Framework for World of Warcraft and its older expansions.
 
 
 ## :zap: My current projects:
