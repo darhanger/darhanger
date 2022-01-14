@@ -104,6 +104,13 @@ Lua                      7 repos             ███████████�
  Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
+## :zap: Current support:
+- [![GitHub stars](https://img.shields.io/github/stars/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
+[![Last Release](https://img.shields.io/github/v/release/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
+[![GitHub All Releases](https://img.shields.io/github/downloads/official-nhub/ni/total?style=flat-square)](https://github.com/official-nhub/ni/releases)
+ [**ni (official)**](https://github.com/official-nhub/ni)  - Profile Framework for World of Warcraft and its older expansions.
+
+
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
