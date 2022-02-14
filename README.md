@@ -9,7 +9,7 @@
 
 <p>
 
- - 🔭 I’m currently working on **[WotLK Profiles for NI](https://github.com/darhanger/WotLK_Profiles_for_nHub)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
+ - 🔭 I’m currently working on **[DarhangeR Rotations 3.3.5](https://github.com/darhanger/DarhangeR_Rotations_3.3.5)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
 
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
  - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni-2)**
@@ -116,10 +116,10 @@ Lua                      7 repos             ███████████�
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-2/total?style=flat-square)](https://github.com/darhanger/ni-2/releases)
  [**ni**](https://github.com/darhanger/ni-2)  - Profile Framework for World of Warcraft and its older expansions.
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/WotLK_Profiles_for_nHub?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/WotLK_Profiles_for_nHub/total?style=flat-square)](https://github.com/darhanger/WotLK_Profiles_for_nHub/releases)
- [**WotLK Profiles for NI**](https://github.com/darhanger/WotLK_Profiles_for_nHub) - My current project. Good alternative for [**PQR**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a).
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/DarhangeR_Rotations_3.3.5?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations_3.3.5)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/DarhangeR_Rotations_3.3.5?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations_3.3.5)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/DarhangeR_Rotations_3.3.5/total?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations_3.3.5/releases)
+ [**DarhangeR Rotations 3.3.5**](https://github.com/darhanger/DarhangeR_Rotations_3.3.5) - My current project. Good alternative for [**PQR**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a).
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/LagBar/total?style=flat-square)](https://github.com/darhanger/LagBar/releases)
