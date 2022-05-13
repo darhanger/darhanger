@@ -32,9 +32,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55%20Thousand%20lines%20of%20code-blue)
 
@@ -79,17 +79,17 @@ Sunday       21 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Kiev
 
 💬 Programming Languages: 
-Lua                      18 hrs              █████████████████████████   100.0%
+Lua                      20 hrs 28 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Notepad++                18 hrs              █████████████████████████   100.0%
+Notepad++                20 hrs 28 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DarhangeR Rotations      9 hrs 38 mins       █████████████░░░░░░░░░░░░   53.56% 
-Unknown Project          8 hrs 21 mins       ███████████░░░░░░░░░░░░░░   46.44%
+Unknown Project          12 hrs 17 mins      ███████████████░░░░░░░░░░   60.08% 
+DarhangeR Rotations      8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.92%
 
 💻 Operating System: 
-Windows                  18 hrs              █████████████████████████   100.0%
+Windows                  20 hrs 28 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 00:43:12 UTC
+ Last Updated on 13/05/2022 00:51:31 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Current support:
