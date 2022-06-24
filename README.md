@@ -1,4 +1,4 @@
-### <img src="https://github.com/darhanger/darhanger/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/darhanger/darhanger/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/darhanger/darhanger/blob/master/Assets/Hi.gif" height="28" width="24"> **Hello world!** &nbsp;<img src="https://github.com/darhanger/darhanger/blob/master/Assets/Earth.gif" height="24" width="24">
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=black&color=white)](https://discord.gg/xBFKJc6QRr)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=black&color=white)](http://m.me/darhanger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=black&color=white)](https://www.instagram.com/darhanger/)
