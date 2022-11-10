@@ -32,17 +32,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 98 Contributions in the Year 2022
+> 🏆 121 Contributions in the Year 2022
  > 
-> 📦 12.9 kB Used in GitHub's Storage 
+> 📦 14.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -60,7 +60,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2022 00:58:53 UTC
+ Last Updated on 10/11/2022 00:49:23 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Current support:
