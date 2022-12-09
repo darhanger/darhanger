@@ -63,18 +63,12 @@ JavaScript               1 repo              ██░░░░░░░░░�
  Last Updated on 10/11/2022 00:49:23 UTC
 <!--END_SECTION:waka-->
 
-## :zap: Current support:
-- [![GitHub stars](https://img.shields.io/github/stars/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
-[![Last Release](https://img.shields.io/github/v/release/official-nhub/ni?style=flat-square)](https://github.com/official-nhub/ni)
-[![GitHub All Releases](https://img.shields.io/github/downloads/official-nhub/ni/total?style=flat-square)](https://github.com/official-nhub/ni/releases)
- [**ni (official)**](https://github.com/official-nhub/ni)  - Profile Framework for World of Warcraft and its older expansions.
-
 
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-2/total?style=flat-square)](https://github.com/darhanger/ni-2/releases)
- [**ni**](https://github.com/darhanger/ni-2)  - Profile Framework for World of Warcraft and its older expansions.
+ [**ni (v2)**](https://github.com/darhanger/ni-2)  - Profile Framework for World of Warcraft and its older expansions.
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/DarhangeR_Rotations/total?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations/releases)
