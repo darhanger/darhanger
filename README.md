@@ -68,10 +68,10 @@ JavaScript               1 repo              ███░░░░░░░░�
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases)
  [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2-?style=flat-square)](https://github.com/darhanger/ni-v2-)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2-?style=flat-square)](https://github.com/darhanger/ni-v2-)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2-/total?style=flat-square)](https://github.com/darhanger/ni-v2-/releases)
- [**ni (v2)**](https://github.com/darhanger/ni-v2-)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases)
+ [**ni (v2)**](https://github.com/darhanger/ni-v2)  - Profile Framework for World of Warcraft and its older expansions.
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/DarhangeR_Rotations/total?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations/releases)
