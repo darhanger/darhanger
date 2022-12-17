@@ -66,38 +66,49 @@ JavaScript               1 repo              ███░░░░░░░░�
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v3/3.3.3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases/tag/3.3.3)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases)
- [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
+  [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
+
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.56/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.56)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases)
  [**ni (v2)**](https://github.com/darhanger/ni-v2)  - Profile Framework for World of Warcraft and its older expansions.
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/DarhangeR_Rotations/total?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations/releases)
- [**DarhangeR Rotations**](https://github.com/darhanger/DarhangeR_Rotations) - My current project. Good alternative for [**PQR**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a).
+
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/LagBar/1.2/total?style=flat-square)](https://github.com/darhanger/LagBar/releases/tag/1.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/LagBar/total?style=flat-square)](https://github.com/darhanger/LagBar/releases)
  [**LagBar**](https://github.com/darhanger/LagBar)  - A simple Lagbar that you can move around. It will show you your current FPS and the current Latency (or Lag) that you are experiencing.
+ 
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/SpoofName?style=flat-square)](https://github.com/darhanger/SpoofName)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/SpoofName?style=flat-square)](https://github.com/darhanger/SpoofName)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpoofName/0.2/total?style=flat-square)](https://github.com/darhanger/SpoofName/releases/tag/0.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/SpoofName/total?style=flat-square)](https://github.com/darhanger/SpoofName/releases)
  [**SpoofName**](https://github.com/darhanger/SpoofName)  - A simple addon which changes character name for safe streaming when you use cheats xD.
+ 
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/1.3.1/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases/tag/1.3.1)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases)
  [**SpellAndItemID**](https://github.com/darhanger/SpellAndItemID)  - Show spell and item ID's on tooltip.
+  
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/2.5.05/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases/tag/2.5.05)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases)
  [**Accountant Classic**](https://github.com/darhanger/Accountant_Classic)  - Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc.
 ## :snowflake: Closed projects:
+  
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.2/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases)
  [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
-   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
+  
+  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_H-WoW/1.2/total?style=flat-square)](https://github.com/darhanger/PQR_H-WoW/releases/tag/1.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_H-WoW/total?style=flat-square)](https://github.com/darhanger/PQR_H-WoW/releases)
  [**PQR Profiles for Heroes-WoW Fun**](https://github.com/darhanger/PQR_H-WoW)  - Profiles for Heroes-WoW
