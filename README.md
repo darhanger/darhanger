@@ -12,7 +12,6 @@
  - 🔭 I’m currently working on **[DarhangeR Rotations](https://github.com/darhanger/DarhangeR_Rotations)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
 
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
- - 🤔 I’m looking for help with: **Lua** side for **[NI](https://github.com/darhanger/ni-2)**
  
 </p>
 
@@ -65,10 +64,14 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 ## :zap: My current projects:
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-2?style=flat-square)](https://github.com/darhanger/ni-2)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-2/total?style=flat-square)](https://github.com/darhanger/ni-2/releases)
- [**ni (v2)**](https://github.com/darhanger/ni-2)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases)
+ [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2-?style=flat-square)](https://github.com/darhanger/ni-v2-)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2-?style=flat-square)](https://github.com/darhanger/ni-v2-)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2-/total?style=flat-square)](https://github.com/darhanger/ni-v2-/releases)
+ [**ni (v2)**](https://github.com/darhanger/ni-v2-)  - Profile Framework for World of Warcraft and its older expansions.
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/DarhangeR_Rotations?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/DarhangeR_Rotations/total?style=flat-square)](https://github.com/darhanger/DarhangeR_Rotations/releases)
