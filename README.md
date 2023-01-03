@@ -31,35 +31,35 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 166 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
-> 📦 20.4 kB Used in GitHub's Storage 
+> 📦 22.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      7 repos             ██████████████████████░░░   87.5% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Lua                      8 repos             ██████████████████████░░░   88.89% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 13/12/2022 00:45:00 UTC
+ Last Updated on 03/01/2023 00:41:51 UTC
 <!--END_SECTION:waka-->
 
 
