@@ -31,35 +31,77 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
+> 📦 24.6 kB Used in GitHub's Storage 
  > 
-> 📦 22.4 kB Used in GitHub's Storage 
+> 🏆 21 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+🌆 Daytime                178 commits         ████████████░░░░░░░░░░░░░   46.60 % 
+🌃 Evening                110 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   69 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Thursday                 55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Friday                   89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Lua                      5 hrs 20 mins       █████████████████████████   99.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🔥 Editors: 
+Notepad++                5 hrs 20 mins       █████████████████████████   99.74 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🐱‍💻 Projects: 
+Unknown Project          4 hrs 56 mins       ███████████████████████░░   92.28 % 
+ni-v2-                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+
+💻 Operating System: 
+Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      8 repos             ██████████████████████░░░   88.89% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
+Lua                      8 repos             ██████████████████████░░░   88.89 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
- Last Updated on 03/01/2023 00:41:51 UTC
+
+ Last Updated on 23/02/2023 00:39:19 UTC
 <!--END_SECTION:waka-->
 
 
