@@ -31,15 +31,15 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 25.0 kB Used in GitHub's Storage 
  > 
 > 🏆 69 Contributions in the Year 2023
  > 
@@ -76,18 +76,18 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      10 hrs 12 mins      █████████████████████████   99.74 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Lua                      11 hrs 46 mins      █████████████████████████   99.77 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Notepad++                10 hrs 14 mins      █████████████████████████   100.00 % 
+Notepad++                11 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DarhangeR Rotations      10 hrs 5 mins       █████████████████████████   98.56 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+DarhangeR Rotations      9 hrs 18 mins       ████████████████████░░░░░   78.90 % 
+Unknown Project          2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 
 💻 Operating System: 
-Windows                  10 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -102,7 +102,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2023 00:37:45 UTC
+ Last Updated on 20/04/2023 00:35:35 UTC
 <!--END_SECTION:waka-->
 
 
