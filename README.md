@@ -115,7 +115,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.56/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.56)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.58/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.56)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases)
  [**ni (v2)**](https://github.com/darhanger/ni-v2)  - Profile Framework for World of Warcraft and its older expansions.
 
