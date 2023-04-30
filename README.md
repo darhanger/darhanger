@@ -109,13 +109,13 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v3?style=flat-square)](https://github.com/darhanger/ni-v3)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v3/3.3.3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases/tag/3.3.3)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v3/3.3.4/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases/tag/3.3.4)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases)
   [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.58/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.56)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.58/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.58)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases)
  [**ni (v2)**](https://github.com/darhanger/ni-v2)  - Profile Framework for World of Warcraft and its older expansions.
 
