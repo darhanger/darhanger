@@ -87,7 +87,7 @@ Notepad++                18 hrs 4 mins       ███████████�
 🐱‍💻 Projects: 
 Unknown Project          9 hrs 25 mins       █████████████░░░░░░░░░░░░   52.12 % 
 DarhangeR Rotations      4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-ni-v2                    3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+ni                    3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
 json.lua                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
@@ -117,11 +117,11 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v3/total?style=flat-square)](https://github.com/darhanger/ni-v3/releases)
   [**ni (v3.3.3)**](https://github.com/darhanger/ni-v3)  - Profile Framework for World of Warcraft and its older expansions.
 
-- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
-[![Last Release](https://img.shields.io/github/v/release/darhanger/ni-v2?style=flat-square)](https://github.com/darhanger/ni-v2)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni-v2/v0.0.58/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases/tag/v0.0.58)
-[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni-v2/total?style=flat-square)](https://github.com/darhanger/ni-v2/releases)
- [**ni (v2)**](https://github.com/darhanger/ni-v2)  - Profile Framework for World of Warcraft and its older expansions.
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/v0.0.58/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/v0.0.58)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
+ [**ni (v2)**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
