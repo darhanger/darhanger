@@ -31,15 +31,15 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-547.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 29.3 kB Used in GitHub's Storage 
+> 📦 29.4 kB Used in GitHub's Storage 
  > 
 > 🏆 200 Contributions in the Year 2023
  > 
@@ -76,18 +76,21 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      4 hrs 42 mins       █████████████████████████   100.00 % 
+Lua                      6 hrs 55 mins       ████████████████████████░   95.63 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TeX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Notepad++                4 hrs 42 mins       █████████████████████████   100.00 % 
+Notepad++                7 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 3 mins        ██████████████████████░░░   86.41 % 
-ni                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-DarhangeR Rotations      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+DarhangeR Rotations      6 hrs 22 mins       ██████████████████████░░░   87.97 % 
+ni                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+libinternalcooldowns-1-1 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -102,7 +105,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2023 00:40:25 UTC
+ Last Updated on 15/06/2023 00:41:41 UTC
 <!--END_SECTION:waka-->
 
 
