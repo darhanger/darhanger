@@ -1,10 +1,7 @@
 ### <img src="https://github.com/darhanger/darhanger/blob/master/Assets/Hi.gif" height="28" width="24"> **Hello world!** &nbsp;<img src="https://github.com/darhanger/darhanger/blob/master/Assets/Earth.gif" height="24" width="24">
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=black&color=white)](https://discord.gg/xBFKJc6QRr)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=black&color=white)](http://m.me/darhanger)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=black&color=white)](https://www.instagram.com/darhanger/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=black&color=white)](http://t.me/darhanger)
-![GitHub followers](https://img.shields.io/github/followers/darhanger?label=Follow&style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/darhanger?label=Follow)](https://twitter.com/intent/follow?screen_name=darhanger)
+[![Contact With Me](https://img.shields.io/badge/Contact%20With%20Me-orange?style=flat-squaree&logo=googlemessages&logoColor=white&labelColor=black&color=black&cacheSeconds=3650&link=https%3A%2F%2Fallmylinks.com%2Fdarhanger)](https://allmylinks.com/darhanger)
+[![GitHub Followers](https://img.shields.io/github/followers/darhanger?label=Follow&style=flat-squaree&logo=github&labelColor=black&color=black&cacheSeconds=5)](https://github.com/darhanger)
+[![Discord Server](https://img.shields.io/discord/396973077478768653?style=flat-squeree&logo=discord&logoColor=white&label=DarhangeR%20Rotations%20Server&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/xBFKJc6QRr)
 <img align="right" alt="PC GIF" src="https://github.com/darhanger/darhanger/blob/master/Assets/PC.gif" width="175" />
 
 <p>
