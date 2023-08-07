@@ -115,10 +115,16 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.58/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.58)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.60/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.60)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
- [**ni (v2)**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
+ [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
 
+- [![GitHub stars](https://img.shields.io/github/stars/darhanger/InternalCooldowns?style=flat-square)](https://github.com/darhanger/InternalCooldowns)
+[![Last Release](https://img.shields.io/github/v/release/darhanger/InternalCooldowns?style=flat-square)](https://github.com/darhanger/InternalCooldowns)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/InternalCooldowns/1.31/total?style=flat-square)](https://github.com/darhanger/InternalCooldowns/releases/tag/1.31)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/InternalCooldowns/total?style=flat-square)](https://github.com/darhanger/InternalCooldowns/releases)
+ [**InternalCooldowns**](https://github.com/darhanger/InternalCooldowns)  - InternalCooldowns tracks procs from your gear.
+ 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/LagBar/1.2/total?style=flat-square)](https://github.com/darhanger/LagBar/releases/tag/1.2)
