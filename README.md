@@ -114,7 +114,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.60/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.60)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.61.1/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.61.1)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
  [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
 
@@ -144,14 +144,14 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
   
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/2.5.05/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases/tag/2.5.05)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/2.5.06/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases/tag/2.5.06)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases)
  [**Accountant Classic**](https://github.com/darhanger/Accountant_Classic)  - Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc.
 ## :snowflake: Closed projects:
   
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.2/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.2)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.3/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.3)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases)
  [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
   
