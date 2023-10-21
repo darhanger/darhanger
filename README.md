@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-636.1%20thousand%20lines%20of%20code-blue)
 
@@ -73,16 +73,18 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      16 hrs 35 mins      █████████████████████████   100.00 % 
+Lua                      17 hrs 39 mins      █████████████████████████   98.34 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Notepad++                16 hrs 35 mins      █████████████████████████   100.00 % 
+Notepad++                17 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          16 hrs 35 mins      █████████████████████████   100.00 % 
+DarhangeR Rotations      17 hrs 39 mins      █████████████████████████   98.34 % 
+rotations                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  16 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -98,7 +100,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2023 00:34:11 UTC
+ Last Updated on 21/10/2023 00:32:47 UTC
 <!--END_SECTION:waka-->
 
 
