@@ -28,7 +28,7 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -73,16 +73,16 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      6 hrs 10 mins       █████████████████████████   100.00 % 
+Lua                      6 hrs 36 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notepad++                6 hrs 10 mins       █████████████████████████   100.00 % 
+Notepad++                6 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 10 mins       █████████████████████████   100.00 % 
+Unknown Project          6 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -96,7 +96,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 30/12/2023 00:34:33 UTC
+ Last Updated on 31/12/2023 00:38:46 UTC
 <!--END_SECTION:waka-->
 
 
