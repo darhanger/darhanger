@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-670.3%20thousand%20lines%20of%20code-blue)
 
@@ -73,16 +73,17 @@ Sunday                   118 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      4 hrs 8 mins        █████████████████████████   100.00 % 
+Lua                      1 hr 45 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notepad++                4 hrs 8 mins        █████████████████████████   100.00 % 
+Notepad++                1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DarhangeR Rotations      4 hrs 8 mins        █████████████████████████   100.00 % 
+DarhangeR Rotations      1 hr 17 mins        ██████████████████░░░░░░░   72.85 % 
+Unknown Project          28 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -96,7 +97,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 04/01/2024 00:36:41 UTC
+ Last Updated on 05/01/2024 00:36:30 UTC
 <!--END_SECTION:waka-->
 
 
