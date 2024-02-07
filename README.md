@@ -28,9 +28,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C645%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C648%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-673.3%20thousand%20lines%20of%20code-blue)
 
@@ -73,19 +73,19 @@ Sunday                   121 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      7 hrs 58 mins       ████████████████████░░░░░   78.61 % 
-Other                    2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Lua                      6 hrs 6 mins        ██████████████████░░░░░░░   70.31 % 
+Other                    2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
 
 🔥 Editors: 
-Notepad++                7 hrs 58 mins       ████████████████████░░░░░   78.61 % 
-Word                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Notepad++                6 hrs 6 mins        ██████████████████░░░░░░░   70.31 % 
+Word                     2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
 
 🐱‍💻 Projects: 
-DarhangeR Rotations      9 hrs 37 mins       ████████████████████████░   94.82 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+DarhangeR Rotations      6 hrs 48 mins       ████████████████████░░░░░   78.31 % 
+Unknown Project          1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -99,7 +99,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 06/02/2024 00:34:20 UTC
+ Last Updated on 07/02/2024 00:32:50 UTC
 <!--END_SECTION:waka-->
 
 
