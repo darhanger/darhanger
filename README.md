@@ -142,7 +142,7 @@ JavaScript               2 repos             ███░░░░░░░░�
   
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.3/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.3)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.4/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.4)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases)
  [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
   
