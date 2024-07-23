@@ -104,7 +104,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ## :zap: My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.63/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.63)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.66/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.66)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
  [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
 
@@ -128,7 +128,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
  
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
-[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/1.3.1/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases/tag/1.3.1)
+[![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/1.3.2/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases/tag/1.3.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases)
  [**SpellAndItemID**](https://github.com/darhanger/SpellAndItemID)  - Show spell and item ID's on tooltip.
   
