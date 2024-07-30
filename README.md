@@ -28,9 +28,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-739.1%20thousand%20lines%20of%20code-blue)
 
@@ -38,7 +38,7 @@
 
 > 📦 44.5 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2024
+> 🏆 190 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -73,17 +73,19 @@ Sunday                   151 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      10 hrs 7 mins       █████████████████████████   98.22 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Lua                      7 hrs 36 mins       ████████████████████████░   95.83 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Notepad++                10 hrs 18 mins      █████████████████████████   100.00 % 
+Notepad++                7 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 18 mins      █████████████████████████   100.00 % 
+Unknown Project          7 hrs 47 mins       █████████████████████████   98.14 % 
+rotations                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -97,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 00:41:27 UTC
+ Last Updated on 30/07/2024 00:40:19 UTC
 <!--END_SECTION:waka-->
 
 
