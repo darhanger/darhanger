@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C958%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749.0%20thousand%20lines%20of%20code-blue)
 
@@ -89,16 +89,16 @@ Windows                  7 hrs 22 mins       ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      11 repos            ███████████████░░░░░░░░░░   61.11 % 
-Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Lua                      11 repos            ████████████████░░░░░░░░░   64.71 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 29/09/2024 00:51:02 UTC
+ Last Updated on 30/09/2024 00:47:50 UTC
 <!--END_SECTION:waka-->
 
 
