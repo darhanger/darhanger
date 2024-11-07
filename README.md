@@ -28,15 +28,15 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-861.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 56.3 kB Used in GitHub's Storage 
+> 📦 58.1 kB Used in GitHub's Storage 
  > 
 > 🏆 332 Contributions in the Year 2024
  > 
@@ -73,19 +73,19 @@ Sunday                   185 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      9 hrs 52 mins       █████████████████████████   99.84 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Lua                      8 hrs 13 mins       █████████████████████████   99.81 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Notepad++                9 hrs 53 mins       █████████████████████████   100.00 % 
+Notepad++                8 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 52 mins       █████████████████████████   99.92 % 
-Dar_Rotations            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-NewStuff                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Unknown Project          8 hrs 13 mins       █████████████████████████   99.90 % 
+Dar_Rotations            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+NewStuff                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -100,7 +100,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2024 00:45:10 UTC
+ Last Updated on 07/11/2024 00:45:17 UTC
 <!--END_SECTION:waka-->
 
 
