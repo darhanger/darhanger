@@ -24,7 +24,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhanger&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="Darhanger's Github Stats" width="35%">
  </a>
 
-<br> <br> <br> <br> 
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
