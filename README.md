@@ -6,9 +6,9 @@
 
 <p>
 
- - 🔭 I’m currently working on **[DarhangeR Rotations](https://github.com/darhanger/DarhangeR_Rotations)** [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
+ - 🔭 I’m currently working on **[DarhangeR Rotations](https://github.com/darhanger/DarhangeR_Rotations)**   [![wakatime](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg)](https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1)
 
- - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
+ - 🌱 I’m currently learning: **[C++](https://isocpp.org/)** / **[Lua](https://www.lua.org/)**
  
 </p>
 
@@ -107,47 +107,47 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [![Last Release](https://img.shields.io/github/v/release/darhanger/LagBar?style=flat-square)](https://github.com/darhanger/LagBar)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/LagBar/1.3/total?style=flat-square)](https://github.com/darhanger/LagBar/releases/tag/1.3)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/LagBar/total?style=flat-square)](https://github.com/darhanger/LagBar/releases)
- [**LagBar**](https://github.com/darhanger/LagBar)  - A simple Lagbar that you can move around. It will show you your current FPS and the current Latency (or Lag) that you are experiencing.
+   [**LagBar**](https://github.com/darhanger/LagBar)  - A simple Lagbar that you can move around. It will show you your current FPS and the current Latency (or Lag) that you are experiencing.
 
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/Accountant_Classic?style=flat-square)](https://github.com/darhanger/Accountant_Classic)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/2.6.0/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases/tag/2.6.0)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/Accountant_Classic/total?style=flat-square)](https://github.com/darhanger/Accountant_Classic/releases)
- [**Accountant Classic**](https://github.com/darhanger/Accountant_Classic)  - Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc.
+   [**Accountant Classic**](https://github.com/darhanger/Accountant_Classic)  - Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc.
  
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/SpoofName?style=flat-square)](https://github.com/darhanger/SpoofName)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/SpoofName?style=flat-square)](https://github.com/darhanger/SpoofName)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpoofName/0.2/total?style=flat-square)](https://github.com/darhanger/SpoofName/releases/tag/0.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/SpoofName/total?style=flat-square)](https://github.com/darhanger/SpoofName/releases)
- [**SpoofName**](https://github.com/darhanger/SpoofName)  - A simple addon which changes character name for safe streaming when you use cheats xD.
+   [**SpoofName**](https://github.com/darhanger/SpoofName)  - A simple addon which changes character name for safe streaming when you use cheats xD.
 
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/InternalCooldowns?style=flat-square)](https://github.com/darhanger/InternalCooldowns)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/InternalCooldowns?style=flat-square)](https://github.com/darhanger/InternalCooldowns)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/InternalCooldowns/1.31/total?style=flat-square)](https://github.com/darhanger/InternalCooldowns/releases/tag/1.31)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/InternalCooldowns/total?style=flat-square)](https://github.com/darhanger/InternalCooldowns/releases)
- [**InternalCooldowns**](https://github.com/darhanger/InternalCooldowns)  - InternalCooldowns tracks procs from your gear.
+   [**InternalCooldowns**](https://github.com/darhanger/InternalCooldowns)  - InternalCooldowns tracks procs from your gear.
  
  - [![GitHub stars](https://img.shields.io/github/stars/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/SpellAndItemID?style=flat-square)](https://github.com/darhanger/SpellAndItemID)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/1.3.2/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases/tag/1.3.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/SpellAndItemID/total?style=flat-square)](https://github.com/darhanger/SpellAndItemID/releases)
- [**SpellAndItemID**](https://github.com/darhanger/SpellAndItemID)  - Show spell and item ID's on tooltip.
+   [**SpellAndItemID**](https://github.com/darhanger/SpellAndItemID)  - Show spell and item ID's on tooltip.
 ## :snowflake: Arhived Projects:
 - [![GitHub stars](https://img.shields.io/github/stars/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/ni?style=flat-square)](https://github.com/darhanger/ni)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/ni/0.0.67/total?style=flat-square)](https://github.com/darhanger/ni/releases/tag/0.0.67)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/ni/total?style=flat-square)](https://github.com/darhanger/ni/releases)
- [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
+   [**ni**](https://github.com/darhanger/ni)  - Profile Framework for World of Warcraft and its older expansions.
 ## :no_entry_sign: Pemamently Closed Projects:
   
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_DarhangeR_3.3.5a?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/1.8.4/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases/tag/1.8.4)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_DarhangeR_3.3.5a/total?style=flat-square)](https://github.com/darhanger/PQR_DarhangeR_3.3.5a/releases)
- [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
+   [**PQR Profiles for 3.3.5a**](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)  - PQR is a bot designed to perform complex DPS, healing and tanking rotations for the player. It was mainly designed to reduce the tediousness of performing a complex rotation for hours on end, which for many can be a huge relief and provide them with a better WoW experience where they may have wanted to quit in other cases.
   
   - [![GitHub stars](https://img.shields.io/github/stars/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
 [![Last Release](https://img.shields.io/github/v/release/darhanger/PQR_H-WoW?style=flat-square)](https://github.com/darhanger/PQR_H-WoW)
 [![GitHub Last Download](https://img.shields.io/github/downloads/darhanger/PQR_H-WoW/1.2/total?style=flat-square)](https://github.com/darhanger/PQR_H-WoW/releases/tag/1.2)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darhanger/PQR_H-WoW/total?style=flat-square)](https://github.com/darhanger/PQR_H-WoW/releases)
- [**PQR Profiles for Heroes-WoW Fun**](https://github.com/darhanger/PQR_H-WoW)  - Profiles for Heroes-WoW
+   [**PQR Profiles for Heroes-WoW Fun**](https://github.com/darhanger/PQR_H-WoW)  - Profiles for Heroes-WoW
