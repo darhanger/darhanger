@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C110%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.5%20thousand%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@
 
 > 📦 59.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 349 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,6 +45,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                283 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌆 Daytime                641 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌃 Evening                612 commits         ██████████░░░░░░░░░░░░░░░   39.53 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Wednesday                267 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Thursday                 187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Saturday                 243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Sunday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Lua                      55 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Notepad++                55 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DarhangeR Rotations      55 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  55 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -57,7 +96,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 00:52:38 UTC
+ Last Updated on 14/12/2024 00:50:38 UTC
 <!--END_SECTION:waka-->
 
 
