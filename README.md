@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C119%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C119%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.2%20thousand%20lines%20of%20code-blue)
 
@@ -45,45 +45,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                283 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-🌆 Daytime                642 commits         ██████████░░░░░░░░░░░░░░░   41.42 % 
-🌃 Evening                613 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Tuesday                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Saturday                 243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Sunday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-Lua                      1 hr                █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Notepad++                1 hr                █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr                █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -96,7 +57,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 00:46:25 UTC
+ Last Updated on 25/12/2024 00:45:33 UTC
 <!--END_SECTION:waka-->
 
 
