@@ -29,15 +29,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 59.8 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -72,20 +70,17 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      17 hrs 20 mins      ████████████████████████░   95.73 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Lua                      13 hrs 58 mins      ████████████████████████░   94.85 % 
+Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-Notepad++                17 hrs 58 mins      █████████████████████████   99.23 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Notepad++                14 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs 19 mins      ██████████████████░░░░░░░   73.57 % 
-DarhangeR Rotations      4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Unknown Project          14 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -100,7 +95,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 00:49:35 UTC
+ Last Updated on 07/01/2025 00:47:09 UTC
 <!--END_SECTION:waka-->
 
 
