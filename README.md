@@ -27,15 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 59.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,17 +72,16 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      13 hrs 58 mins      ████████████████████████░   94.85 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Lua                      10 hrs 15 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notepad++                14 hrs 44 mins      █████████████████████████   100.00 % 
+Notepad++                10 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 44 mins      █████████████████████████   100.00 % 
+Unknown Project          10 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -95,7 +96,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2025 00:47:09 UTC
+ Last Updated on 08/01/2025 00:47:08 UTC
 <!--END_SECTION:waka-->
 
 
