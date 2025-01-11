@@ -27,15 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2032%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 59.8 kB Used in GitHub's Storage 
+> 📦 59.9 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
+> 🏆 6 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,6 +45,46 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+🌆 Daytime                647 commits         ██████████░░░░░░░░░░░░░░░   41.58 % 
+🌃 Evening                613 commits         ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Friday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Sunday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Lua                      6 hrs 47 mins       ████████████████████████░   97.25 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+
+🔥 Editors: 
+Notepad++                6 hrs 58 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          6 hrs 58 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -55,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 00:48:10 UTC
+ Last Updated on 11/01/2025 00:47:00 UTC
 <!--END_SECTION:waka-->
 
 
