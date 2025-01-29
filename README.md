@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C182%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-873.1%20thousand%20lines%20of%20code-blue)
 
@@ -72,17 +72,16 @@ Sunday                   193 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████░░░░░░░░   69.65 % 
-Lua                      1 min               ████████░░░░░░░░░░░░░░░░░   30.35 % 
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notepad++                3 mins              █████████████████████████   100.00 % 
+Notepad++                2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -97,7 +96,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2025 00:45:53 UTC
+ Last Updated on 29/01/2025 00:45:40 UTC
 <!--END_SECTION:waka-->
 
 
