@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C227%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-879.1%20thousand%20lines%20of%20code-blue)
 
@@ -37,11 +37,9 @@
 
 > 📦 54.9 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -72,20 +70,21 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      14 hrs 5 mins       ████████████████████████░   97.29 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Lua                      8 hrs 26 mins       ████████████████████████░   97.07 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Notepad++                12 hrs 12 mins      █████████████████████░░░░   84.25 % 
-VS Code                  2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Notepad++                6 hrs 51 mins       ████████████████████░░░░░   78.89 % 
+VS Code                  1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
 
 🐱‍💻 Projects: 
-DarhangeR Rotations      14 hrs 5 mins       ████████████████████████░   97.23 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+DarhangeR Rotations      8 hrs 7 mins        ███████████████████████░░   93.48 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+darhanger-routine        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  14 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -100,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 00:47:36 UTC
+ Last Updated on 22/02/2025 00:45:08 UTC
 <!--END_SECTION:waka-->
 
 
