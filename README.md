@@ -27,15 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C227%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C231%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-879.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 55.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,19 +72,20 @@ Sunday                   195 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      1 hr 24 mins        █████████████████████████   100.00 % 
+Lua                      5 hrs 46 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notepad++                1 hr 12 mins        █████████████████████░░░░   85.65 % 
-VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Notepad++                5 hrs 33 mins       ████████████████████████░   96.15 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 4 mins         ███████████████████░░░░░░   75.48 % 
-DarhangeR Rotations      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-darhanger-routine        8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Unknown Project          5 hrs 24 mins       ███████████████████████░░   93.66 % 
+DarhangeR Rotations      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+darhanger-routine        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+NewStuff                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -97,7 +100,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 00:49:22 UTC
+ Last Updated on 25/02/2025 00:48:20 UTC
 <!--END_SECTION:waka-->
 
 
