@@ -27,15 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C339%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-898.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 56.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 82 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,19 +72,19 @@ Sunday                   199 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Lua                      7 hrs 1 min         █████████████████████████   98.31 % 
-TeX                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Lua                      6 hrs 36 mins       ████████████████████████░   97.76 % 
+TeX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Notepad++                6 hrs 46 mins       ████████████████████████░   94.74 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Notepad++                6 hrs 22 mins       ████████████████████████░   94.43 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 38 mins       ███████████████████████░░   93.05 % 
-NewStuff                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Unknown Project          6 hrs 15 mins       ███████████████████████░░   92.64 % 
+NewStuff                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Windows                  7 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -97,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 00:07:39 UTC
+ Last Updated on 05/05/2025 00:07:45 UTC
 <!--END_SECTION:waka-->
 
 
