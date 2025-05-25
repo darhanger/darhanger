@@ -27,17 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-908.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-908.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.5 kB Used in GitHub's Storage 
+> 📦 58.7 kB Used in GitHub's Storage 
  > 
-> 🏆 160 Contributions in the Year 2025
+> 🏆 162 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -45,52 +45,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌆 Daytime                683 commits         ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌃 Evening                726 commits         ███████████░░░░░░░░░░░░░░   42.53 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  239 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Thursday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Saturday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-Lua                      24 hrs 55 mins      ███████████████████████░░   93.15 % 
-Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🔥 Editors: 
-Notepad++                26 hrs 17 mins      █████████████████████████   98.26 % 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-
-🐱‍💻 Projects: 
-Unknown Project          23 hrs 12 mins      ██████████████████████░░░   86.75 % 
-DarhangeR Rotations      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-darhanger-routine        53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-NewStuff                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-💻 Operating System: 
-Windows                  26 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -103,7 +57,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2025 00:06:42 UTC
+ Last Updated on 25/05/2025 00:07:48 UTC
 <!--END_SECTION:waka-->
 
 
