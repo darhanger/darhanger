@@ -32,14 +32,14 @@
 
 <!-- Improved stat cards layout -->
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api?username=DarhangeR&rank_icon=github&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api?username=DarhangeR&rank_icon=github&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api/top-langs/?username=DarhangeR&layout=compact&hide_border=true&title_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
 <!-- GitHub Streaks nicely centered -->
 <div align="center">
   <br>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
+  <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
 </div>
 
 <!-- TECH STACK SECTION - Always visible -->
