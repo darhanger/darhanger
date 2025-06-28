@@ -169,15 +169,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarhangeR&custom_title=DarhangeR's%20Contribution%20Graph&bg_color=0d1117&color=f5f5fa&line=9e4c98&point=f5f5fa&area=true&area_color=6e4c9833&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- Snake Animation - Everyone loves this -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <!-- CONNECT SECTION -->
 <div align="center">
   <h2>
@@ -191,7 +182,7 @@
   <a href="https://github.com/DarhangeR" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.gg/your-discord" target="_blank" style="text-decoration: none">
+  <a href="https://discord.com/users/250267265285488641" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 <!-- Not enable for the moment ( :wink: )
