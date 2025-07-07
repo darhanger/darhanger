@@ -39,7 +39,7 @@
 <!-- GitHub Streaks nicely centered -->
 <div align="center">
   <br>
-  <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app/?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
+  <img width="90%" src="https://github-readme-streak-stats-beryl-iota.vercel.app//?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
 </div>
 
 <!-- TECH STACK SECTION - Always visible -->
