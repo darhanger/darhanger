@@ -169,7 +169,7 @@
 
 <!-- Beautiful Contribution Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarhangeR&custom_title=DarhangeR's%20Contribution%20Graph&bg_color=0d1117&color=f5f5fa&line=9e4c98&point=f5f5fa&area=true&area_color=6e4c9833&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarhangeR&custom_title=DarhangeR%27s%20Contribution%20Graph&bg_color=0d1117&color=f5f5fa&line=FF4500&point=f5f5fa&area=true&area_color=FF4500&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <!-- CONNECT SECTION -->
