@@ -143,8 +143,11 @@
 <!-- Archived Project Cards -->
 <div align="center">
   <!-- First Row -->
-  <a href="https://github.com/darhanger/ni" style="text-decoration: none">
-    <img width="49%" src="https://github-readme-stats-beta-one-24.vercel.app/api/pin/?username=darhanger&repo=ni&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni" /><br>
+   <a href="https://github.com/darhanger/ni-v3" style="text-decoration: none">
+    <img width="49%" src="https://github-readme-stats-beta-one-24.vercel.app/api/pin/?username=darhanger&repo=ni-v3&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni-v3" />
+  </a> 
+	<a href="https://github.com/darhanger/ni" style="text-decoration: none">
+    <img width="49%" src="https://github-readme-stats-beta-one-24.vercel.app/api/pin/?username=darhanger&repo=ni&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni" />
   </a>
 
   <!-- Second Row -->
