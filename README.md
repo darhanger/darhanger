@@ -17,7 +17,7 @@
 
 <div align="center">
   <p>
-	Experienced Lua and C++ developer focused on World of Warcraft core scripting and addon development.<br>
+	Experienced developer focused on World of Warcraft core scripting and addon development.<br>
 	Specializing in custom backend systems, in-game automation, and reverse engineering for private server enhancements.
   </p>
 </div>
@@ -50,60 +50,59 @@
   </h2>
 </div>
 
-<!-- Frontend Skills -->
+<!-- Languages -->
 <div align="center">
-  <h3>Frontend</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <h3>💡 Languages</h3>
+  <a href="http://www.lua.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank">
-    <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" alt="SVG" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
 </div>
 
-<!-- Backend Skills -->
+<!-- Backend / Databases -->
 <div align="center">
-  <h3>Backend</h3>
-  <a href="http://www.lua.org/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" style="text-decoration: none">
+  <h3>⚙️ Backend / Databases</h3>
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none">
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
 </div>
 
 <!-- Tools -->
 <div align="center">
-  <h3>Tools</h3>
-  <a href="https://github.com/" target="_blank" style="text-decoration: none">
+  <h3>🛠️ Tools & Environment</h3>
+  <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://notepad-plus-plus.org/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://www.microsoft.com/windows" target="_blank" style="text-decoration: none">
+  <a href="https://notepad-plus-plus.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   </a>
 </div>
-
 
 <!-- PROJECTS SECTION -->
 <div align="center">
