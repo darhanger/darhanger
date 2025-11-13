@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a14&height=150&section=header&text=DarhangeR&fontSize=50&fontColor=f5f5fa&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Lua+%26+C%2B%2B+Developer+for+WoW;Custom+Addons+%26+Core+Scripting+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Fullstack+Developer+for+WoW;Custom+Addons+%26+Core+Scripting+Expert" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=DarhangeR&style=for-the-badge&color=1a1a1c" alt="Profile Views" />
 </div>
