@@ -2,8 +2,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a14&height=150&section=header&text=DarhangeR&fontSize=50&fontColor=f5f5fa&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Fullstack+Developer+for+WoW;Custom+Addons+%26+Core+Scripting+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Lua+%26+C%2B%2B+Developer+for+WoW;Custom+Addons+%26+Core+Scripting+Expert" alt="Typing SVG" />
   <br>
+
+  <a href="https://github.com/darhanger?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/darhanger?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/darhanger?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/darhanger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=DarhangeR&style=for-the-badge&color=1a1a1c" alt="Profile Views" />
 </div>
 
@@ -40,6 +47,12 @@
 <div align="center">
   <br>
   <img width="90%" src="https://github-readme-streak-stats-beryl-iota.vercel.app//?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
+
+  <br>
+	
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)
+
+  <br>
 </div>
 
 <!-- TECH STACK SECTION - Always visible -->
