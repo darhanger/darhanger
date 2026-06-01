@@ -194,12 +194,9 @@
 
 <!-- Contact Badges with Hover Effects -->
 <div align="center">
-  <a href="https://github.com/DarhangeR" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/users/250267265285488641" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+	<a href="https://allmylinks.com/darhanger" target="_blank" style="text-decoration: none">
+	  <img src="https://img.shields.io/badge/AllMyLinks-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="AllMyLinks" />
+	</a>
 <!-- Not enable for the moment ( :wink: )
 -->
 </div>
