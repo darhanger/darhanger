@@ -194,9 +194,9 @@
 
 <!-- Contact Badges with Hover Effects -->
 <div align="center">
-	<a href="https://allmylinks.com/darhanger" target="_blank" style="text-decoration: none">
-	  <img src="https://img.shields.io/badge/AllMyLinks-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="AllMyLinks" />
-	</a>
+  <a href="https://allmylinks.com/darhanger" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/AllMyLinks-DarhangeR-f28e26?style=for-the-badge&logo=linktree&logoColor=white" alt="AllMyLinks" />
+  </a>
 <!-- Not enable for the moment ( :wink: )
 -->
 </div>
