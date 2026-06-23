@@ -12,6 +12,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/darhanger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=DarhangeR&style=for-the-badge&color=1a1a1c" alt="Profile Views" />
+  <br><br> 	
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -20,13 +21,24 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
     About Me
   </h2>
+  <p>
+    Experienced developer focused on World of Warcraft core scripting and addon development.<br>
+    Specializing in custom backend systems, in-game automation, and reverse engineering for private server enhancements.
+  </p>
+	<br><br>	
 </div>
 
+<!-- CURRENT PROJECT SECTION -->
 <div align="center">
-  <p>
-	Experienced developer focused on World of Warcraft core scripting and addon development.<br>
-	Specializing in custom backend systems, in-game automation, and reverse engineering for private server enhancements.
-  </p>
+  <h2>
+    <img src="Assets/256.png" width="25px" height="25px" style="vertical-align: middle;">
+    Current Project: <a href="https://univer-project.com/" target="_blank">UNIVER Project</a>
+  </h2>
+  <p>Tracking my development activity and time spent on the UNIVER ecosystem:</p>
+  <a href="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1">
+    <img src="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=for-the-badge&color=f28e26&label_color=555555" alt="wakatime">
+  </a>
+  <br><br>
 </div>
 
 <!-- GITHUB STATS SECTION -->
@@ -37,25 +49,21 @@
   </h2>
 </div>
 
-<!-- Improved stat cards layout -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api?username=DarhangeR&rank_icon=github&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api/top-langs/?username=DarhangeR&layout=compact&hide_border=true&title_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
-<!-- GitHub Streaks nicely centered -->
 <div align="center">
   <br>
   <img width="90%" src="https://github-readme-streak-stats-beryl-iota.vercel.app//?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
-
   <br>
-	
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)
-
+  
+  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)
   <br>
 </div>
 
-<!-- TECH STACK SECTION - Always visible -->
+<!-- TECH STACK SECTION -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" height="25px">
@@ -125,7 +133,7 @@
   </h2>
 </div>
 
-<!-- Project Cards - Custom Projects -->
+<!-- Project Cards -->
 <div align="center">
   <!-- First Row -->
   <a href="https://github.com/darhanger/SpellAndItemID" style="text-decoration: none">
@@ -155,10 +163,10 @@
 <!-- Archived Project Cards -->
 <div align="center">
   <!-- First Row -->
-   <a href="https://github.com/darhanger/ni-v3" style="text-decoration: none">
+  <a href="https://github.com/darhanger/ni-v3" style="text-decoration: none">
     <img width="49%" src="https://github-readme-stats-beta-one-24.vercel.app/api/pin/?username=darhanger&repo=ni-v3&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni-v3" />
   </a> 
-	<a href="https://github.com/darhanger/ni" style="text-decoration: none">
+  <a href="https://github.com/darhanger/ni" style="text-decoration: none">
     <img width="49%" src="https://github-readme-stats-beta-one-24.vercel.app/api/pin/?username=darhanger&repo=ni&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni" />
   </a>
 
@@ -179,7 +187,6 @@
   </h2>
 </div>
 
-<!-- Beautiful Contribution Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarhangeR&custom_title=DarhangeR%27s%20Contribution%20Graph&bg_color=0d1117&color=f5f5fa&line=FF4500&point=f5f5fa&area=true&area_color=FF4500&hide_border=true" alt="Contribution Graph" />
 </div>
@@ -192,13 +199,10 @@
   </h2>
 </div>
 
-<!-- Contact Badges with Hover Effects -->
 <div align="center">
   <a href="https://allmylinks.com/darhanger" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/AllMyLinks-DarhangeR-f28e26?style=for-the-badge&logo=linktree&logoColor=white" alt="AllMyLinks" />
   </a>
-<!-- Not enable for the moment ( :wink: )
--->
 </div>
 
 <!-- FOOTER WAVE -->
