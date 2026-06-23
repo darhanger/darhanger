@@ -34,7 +34,7 @@
     <img src="Assets/256.png" width="25px" height="25px" style="vertical-align: middle;">
     Current Project: <a href="https://univer-project.com/" target="_blank">UNIVER Project</a>
   </h2>
-  <p>Tracking my development activity and time spent on the UNIVER ecosystem:</p>
+  <p>Tracking my development activity and time spent on the <a href="https://wakatime.com/@darhanger/projects/yikgatsfpl" target="_blank">UNIVER ecosystem</a>:</p>
   <a href="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1">
     <img src="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=for-the-badge&color=f28e26&label_color=555555" alt="wakatime">
   </a>
