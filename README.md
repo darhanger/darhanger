@@ -83,32 +83,78 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+	<br>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">
+    <img src="https://img.shields.io/badge/Objective--C-3A3A3A?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  </a>
+</div>
+
+<!-- Frameworks & Libraries -->
+<div align="center">
+  <h3>⚛️ Frameworks & Libraries</h3>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  </a>
+	<br>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  </a>
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+  </a>
+  <a href="https://rxjs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  </a>
+  <a href="https://doc.qt.io/qt-6/qmlapplications.html" target="_blank">
+    <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML" />
   </a>
 </div>
 
 <!-- Backend / Databases -->
 <div align="center">
-  <h3>⚙️ Backend / Databases</h3>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
+  <h3>⚙️ Backend & Databases</h3>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PL/pgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
 </div>
 
-<!-- Tools -->
+<!-- Tools & Environment -->
 <div align="center">
   <h3>🛠️ Tools & Environment</h3>
   <a href="https://github.com/" target="_blank">
