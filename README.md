@@ -59,7 +59,7 @@
   <img width="90%" src="https://github-readme-streak-stats-beryl-iota.vercel.app//?user=DarhangeR&hide_border=true&stroke=2a2a2e&background=0d1117&ring=f5f5fa&fire=f5f5fa&currStreakNum=f5f5fa&currStreakLabel=f5f5fa&sideNums=9d9da3&sideLabels=9d9da3&dates=606066" alt="Contribution Streak" />
   <br>
   
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)
+  [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)](https://trophygithubreadmelang.cybee.dpdns.org/?username=darhanger&theme=darkhub&no-frame=true&row=1&&margin-w=5&no-bg=true)
   <br>
 </div>
 
