@@ -38,7 +38,9 @@
   <a href="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1">
     <img src="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=for-the-badge&color=f28e26&label_color=555555" alt="wakatime">
   </a>
-  <br><br>
+	<br>
+	<img width="95%" height="195px" src="https://github-stats-extended.vercel.app/api/wakatime?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="WakaTime Stats" />
+  <br>
 </div>
 
 <!-- GITHUB STATS SECTION -->
