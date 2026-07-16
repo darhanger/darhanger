@@ -50,8 +50,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api?username=DarhangeR&rank_icon=github&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats-beta-one-24.vercel.app/api/top-langs/?username=DarhangeR&layout=compact&hide_border=true&title_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=darhanger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
