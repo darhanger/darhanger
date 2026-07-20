@@ -184,8 +184,8 @@
 <!-- Project Cards -->
 <div align="center">
   <!-- First Row -->
-  <a href="https://github.com/darhanger/SpellAndItemID" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=SpellAndItemID&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="SpellAndItemID" />
+  <a href="https://github.com/darhanger/idTip-WotLK" style="text-decoration: none">
+    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=idTip-WotLK&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="idTip-WotLK" />
   </a>
   <a href="https://github.com/darhanger/Accountant_Classic" style="text-decoration: none">
     <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=Accountant_Classic&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="Accountant_Classic" />
