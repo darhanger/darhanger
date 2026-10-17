@@ -39,7 +39,7 @@
     <img src="https://wakatime.com/badge/user/cf8c191d-81e3-422c-836c-fb6ed4dafaa4/project/3b1b16df-79e3-42c7-87a3-40219e87b8d1.svg?style=for-the-badge&color=f28e26&label_color=555555" alt="wakatime">
   </a>
 	<br>
-	<img width="95%" height="195px" src="https://github-stats-extended.vercel.app/api/wakatime?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="WakaTime Stats" />
+	<img width="95%" height="195px" src="https://git-stats-wheat.vercel.app/api/wakatime?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="WakaTime Stats" />
   <br>
 </div>
 
@@ -52,8 +52,8 @@
 </div>
 
 <div align="center">
-  <img width="60%" height="195px" src="https://github-stats-extended.vercel.app/api?username=darhanger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <img width="33%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+  <img width="60%" height="195px" src="https://git-stats-wheat.vercel.app/api?username=darhanger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img width="33%" height="195px" src="https://git-stats-wheat.vercel.app/api/top-langs?username=darhanger&layout=compact&hide_title=true&langs_count=10&theme=dark&text_color=9d9da3&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -185,34 +185,34 @@
 <div align="center">
   <!-- First Row -->
   <a href="https://github.com/darhanger/idTip-WotLK" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=idTip-WotLK&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="idTip-WotLK" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=idTip-WotLK&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="idTip-WotLK" />
   </a>
   <a href="https://github.com/darhanger/Accountant_Classic" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=Accountant_Classic&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="Accountant_Classic" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=Accountant_Classic&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="Accountant_Classic" />
   </a>
 
   <!-- Second Row -->
   <a href="https://github.com/darhanger/InternalCooldowns" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=InternalCooldowns&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="InternalCooldowns" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=InternalCooldowns&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="InternalCooldowns" />
   </a>
   <a href="https://github.com/darhanger/LagBar" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=LagBar&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="LagBar" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=LagBar&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="LagBar" />
   </a>
   
   <!-- Third Row -->
   <a href="https://github.com/darhanger/SchoolChecker" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=SchoolChecker&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="SchoolChecker" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=SchoolChecker&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="SchoolChecker" />
   </a>
   <a href="https://github.com/darhanger/SpoofName" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=SpoofName&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="SpoofName" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=SpoofName&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="SpoofName" />
   </a>
 
   <!-- Four Row -->
   <a href="https://github.com/darhanger/BLP_Converter" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=BLP_Converter&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="BLP_Converter" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=BLP_Converter&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="BLP_Converter" />
   </a>
   <a href="https://github.com/darhanger/UpscaleStudio" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=UpscaleStudio&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="UpscaleStudio" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=UpscaleStudio&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="UpscaleStudio" />
   </a>
 </div>
 
@@ -228,18 +228,18 @@
 <div align="center">
   <!-- First Row -->
   <a href="https://github.com/darhanger/ni-v3" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=ni-v3&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni-v3" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=ni-v3&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni-v3" />
   </a> 
   <a href="https://github.com/darhanger/ni" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=ni&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=ni&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="ni" />
   </a>
 
   <!-- Second Row -->
   <a href="https://github.com/darhanger/PQR_DarhangeR_3.3.5a" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=PQR_DarhangeR_3.3.5a&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="PQR_DarhangeR_3.3.5a" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=PQR_DarhangeR_3.3.5a&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="PQR_DarhangeR_3.3.5a" />
   </a>
   <a href="https://github.com/darhanger/PQR_H-WoW" style="text-decoration: none">
-    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=darhanger&repo=PQR_H-WoW&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="PQR_H-WoW" />
+    <img width="45%" src="https://git-stats-wheat.vercel.app/api/pin/?username=darhanger&repo=PQR_H-WoW&description_lines_count=2&border_color=2a2a2e&bg_color=0d1117&title_color=f5f5fa&text_color=9d9da3&icon_color=f5f5fa" alt="PQR_H-WoW" />
   </a>
 </div>
 
